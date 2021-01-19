@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{F3F92D50-B754-4EEE-9249-321DEB88981A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1803B2BF-2DC1-4CBA-91DB-E0CDADBFC972}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1803B2BF-2DC1-4CBA-91DB-E0CDADBFC972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3HaftaYoutubMethod", "Odev3HaftaYoutube\Odev3HaftaYoutubMethod.csproj", "{D3AADC32-7130-4ACC-A185-59A2BE9DD81E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1803B2BF-2DC1-4CBA-91DB-E0CDADBFC972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1803B2BF-2DC1-4CBA-91DB-E0CDADBFC972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1803B2BF-2DC1-4CBA-91DB-E0CDADBFC972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AADC32-7130-4ACC-A185-59A2BE9DD81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AADC32-7130-4ACC-A185-59A2BE9DD81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AADC32-7130-4ACC-A185-59A2BE9DD81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AADC32-7130-4ACC-A185-59A2BE9DD81E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
